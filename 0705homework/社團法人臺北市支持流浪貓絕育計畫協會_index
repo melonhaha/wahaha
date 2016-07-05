@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>社團法人臺北市支持流浪貓絕育計畫協會 </title>
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <title>title</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">
+
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-9">
+
+                    <div id="myCarousel" class="carousel slide">
+                        <!-- 輪播（Carousel）指標 -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- 輪播（Carousel）項目 -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <img src="images/pic1.jpg" alt="First slide">
+                            </div>
+                            <div class="item">
+                                <img src="images/pic3.jpg" alt="Second slide">
+                            </div>
+                            <div class="item">
+                                <img src="images/pic4.jpg" alt="Third slide">
+                            </div>
+                        </div>
+                    </div>
+                  
+
+                  <!--   <div class="control-btn">
+                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+
+                    </div> -->
+                </div>
+                <div class="col-md-3">
+                    <img src="images/tnr_logo.png">
+                    <p class="title">社團法人臺北市支持
+                        <br>流浪貓絕育計畫協會</p>
+                    <div class="line">&nbsp;</div>
+
+                    <p class="ptext">請支持流浪貓TNR計劃粉絲團為推廣貓咪節育、愛護貓咪的網路社團， 本社團同步宣揚與支持臺北市支持流浪貓絕育計劃協會各項活動！
+                    </p>
+
+
+                    <img src="images/pic5.jpg" alt="" width="50%" height="50%"></div>
+            </div>
+
+            <!--navbar-->
+            <nav class="nav navbar navbar-fixed-right">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a href="#" class="navbar-brand">home</a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="mynavbar">
+                        <ul class="nav navbar-nav">
+                            <li><a href="http://www.tnrtw.org/tnreport.php">助紮計劃</a></li>
+                            <li><a href="http://www.tnrtw.org/helpcan_list.php?echNo=96">助罐計劃</a></li>
+                            <li><a href="http://www.tnrtw.org/assist_list.php?demand=Y&">醫助計劃</a></li>
+                            <li><a href="http://www.tnrtw.org/ayhouse.html">安養之家</a></li>
+                        </ul>
+
+                    </div>
+
+                </div>
+            </nav>
+            <!--navbar End-->
+
+
+
+            <div class="row">
+                <div class="col-md-12">
+
+                    <p class="title">助養訊息</p>
+
+                </div>
+
+                <div class="col-md-4">
+                    <div class="thumbnail">
+
+
+
+                     <a href="#"> <img class="grayscale" title="grayscale"src="images/cat/cat_01.jpeg" alt=""></a>
+
+                        <p class="subtilte">助養小久</p>
+
+
+                        <p class="ptext">小久是一隻從高樓墜下受重傷的貓咪，協會在接獲通報之後，志工即前往協助，並帶著小久到重症醫療醫院作治療。
+
+
+                        </p>
+                        <button class="btn btn-secondary"><a href="http://www.tnrtw.org/ayhouse_video.html?catid=233">Read more  </a> </button>
+
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="thumbnail">
+
+                       <a href="#"> <img class="grayscale" title="grayscale" src="images/cat/cat_02.jpg" alt=""></a>
+                        <p class="subtilte">助養妞妞</p>
+                        <p class="ptext">妞妞是竹圍馬階醫院旁的路倒小貓。 因為上呼吸道感染，引發肺炎。在寒冷的冬天，倒臥在馬路旁，經過志工救援送醫，撿回小命一條。
+
+                        </p>
+                        <button class="btn btn-secondary"><a href="http://www.tnrtw.org/ayhouse_list.html?catid=232">Read more
+                            </a>
+                        </button>
+                    </div>
+
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+
+                       <a href="#"> <img class="grayscale" title="grayscale"src="images/cat/cat_03.jpg" alt=""></a>
+                        <p class="subtilte">助養跳跳</p>
+                        <p class="ptext">104年8月份，志工接獲通報忠義捷運站旁，有一隻貓咪腳斷了一截，骨頭外露，傷口還流血。經誘捕送醫，治療一個多月才痊癒...
+                        </p>
+                        <button class="btn btn-secondary"><a href="http://www.tnrtw.org/ayhouse_list.html?catid=231">Read more
+                            </a>
+                        </button>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-4">
+                    <div class="thumbnail">
+
+                        <a href="#"> <img class="grayscale" title="grayscale" src="images/cat/cat_04.jpg" alt=""></a>
+                        <p class="subtilte">助養哈哈</p>
+                        <p class="ptext">104年6月，接獲通報在台北市中山區晴光里新生北路某大樓，一隻母貓在地下室生了一窩4隻小貓，被居民發現後，認為貓咪生活在地下室製造髒亂...
+                        </p>
+                        <button class="btn btn-secondary"><a href="http://www.tnrtw.org/ayhouse_list.html?catid=230">Read more
+                            </a>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+
+                       <a href="#"> <img class="grayscale" title="grayscale"src="images/cat/cat_05.jpg" alt=""></a>
+                        <p class="subtilte">助養魏姐</p>
+                        <p class="ptext">魏姐是志工從收容所帶出的貓咪，經醫生檢查，驗出罹患貓瘟。 到院時，貓咪有嚴重的嘔吐，下痢及嚴重脫水現象...
+                        </p>
+                        <button class="btn btn-secondary"><a href="http://www.tnrtw.org/ayhouse_list.html?catid=229">Read more
+                            </a>
+                        </button>
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+
+                       <a href="#"> <img class="grayscale" title="grayscale" src="images/cat/cat_06.jpg" alt=""></a>
+    
+                        <p class="subtilte">助養小居</p>
+                        <p class="ptext">小居是在基隆被愛心姨姨發現的受傷貓咪， 當時拖著乾癟反折的腳腳閃躲的模樣令人心疼。送醫後、經醫生評估腳已壞死必須截肢..
+
+                        </p>
+                        <button class="btn btn-secondary"><a href="http://www.tnrtw.org/ayhouse_list.html?catid=228">Read more 
+                        
+                            </a>
+                        </button>
+                    </div>
+                </div>
+
+
+            </div>
+
+   
+            <footer>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="ptext">
+                            社團法人臺北市支持流浪貓絕育計畫協會(TNR)計劃協會 版權所有 ©2011-2016. All Rights Reserved. TNR節育、醫療、助罐、對帳、收據、小額捐、贊助或是合作提案
+                            <br>地址：10483台灣台北市松江路315號4樓 我要訂閱電子報 勸募核准文號：衛部救字第1051360749號
+
+                        </p>
+                    </div>
+                </div>
+            </footer>
+
+            <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+            <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</body>
+
+
+
+
+</html>
